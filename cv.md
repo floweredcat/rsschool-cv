@@ -9,7 +9,7 @@
 ## Contact me: ##
 
 ***discord:*** floweredcat  
-***telegram:*** @MDYDB
+***telegram:*** @MDYDB  
 ***Mail*** gard188@mail.ru
 
 ## About Me: ##
@@ -43,10 +43,12 @@ function XO(str) {
 
 ## Education: ##
 
-***Yandex-Practikum*** - unfinished 
+***Yandex-Practikum*** - unfinished   
+
 ***rsschool stage1*** - in progress
 
 ## Languages: ##
 
-**Russian** - Native
+**Russian** - Native  
+
 **English** - Pre-Intermediate
