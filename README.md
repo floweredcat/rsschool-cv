@@ -1,1 +1,1 @@
-# rsschool-cv
+https://floweredcat.github.io/rsschool-cv/
