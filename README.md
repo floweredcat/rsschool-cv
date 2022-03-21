@@ -1,1 +1,1 @@
-https://floweredcat.github.io/rsschool-cv/
+https://floweredcat.github.io/rsschool-cv/cv
